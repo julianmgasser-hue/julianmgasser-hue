@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! I'm Julian
 
-<!--
-**julianmgasser-hue/julianmgasser-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16-year-old IT apprentice from Switzerland with a huge passion for software development, robotics, and 3D printing. I love combining code with physical hardware to build cool, functional
+projects.
 
-Here are some ideas to get you started:
+## Current personal Projects
+- **Autonomous Balancing Robot:** A self-balancing robot utilizing PID controllers.
+- **225g Antweight Combat Robot (Soon):** Designing a custom-built combat robot featuring a mechanical Klann/Jansen walking linkage and a high-rpm 45° vertical spinner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- C (my favourite)
+-  Markdown
+-  Java (currently learning for the OCA)
+-  HTML and CSS (basics)
+
+## CAD & Manufacturing
+- OnShape
+- 3D Printing
+- my messy craftmansship
