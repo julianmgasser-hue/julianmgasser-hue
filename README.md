@@ -5,7 +5,7 @@ projects.
 
 ## Current personal Projects
 - **Autonomous Balancing Robot:** A self-balancing robot utilizing PID controllers.
-- **225g Antweight Combat Robot (Soon):** Designing a custom-built combat robot featuring a mechanical Klann/Jansen walking linkage and a high-rpm 45° vertical spinner.
+- **225g Antweight Combat Robot (Soon):** Designing a custom-built combat robot -> check out my [Repo](https://github.com/julianmgasser-hue/Combat-Robot)
 
 ## Languages
 - C (my favourite)
@@ -17,3 +17,6 @@ projects.
 - OnShape
 - 3D Printing
 - my messy craftmansship
+
+## Project i've done
+- **NAS** I've build my own NAS and set it up on Ubuntu
