@@ -5,7 +5,7 @@ projects.
 
 ## Current personal Projects
 - **Autonomous Balancing Robot:** A self-balancing robot utilizing PID controllers.
-- **225g Antweight Combat Robot (Soon):** Designing a custom-built combat robot -> check out my [Repo](https://github.com/julianmgasser-hue/Combat-Robot)
+- **225g Antweight Combat Robot:** Designing a custom-built combat robot -> check out my [Repo](https://github.com/julianmgasser-hue/Combat-Robot)
 
 ## Languages
 - C (my favourite)
