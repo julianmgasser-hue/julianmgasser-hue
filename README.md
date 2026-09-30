@@ -5,17 +5,16 @@ projects.
 
 ## Current personal Projects
 - **225g Antweight Combat Robot:** Designing a custom-built combat robot -> check out my [Repo](https://github.com/julianmgasser-hue/Combat-Robot)
+- A lot of others in my backlog
 
 ## Languages
--  C (my favourite)
--  Markdown
--  Java (currently learning for the OCA)
--  HTML and CSS (basics)
+-  C 
+-  Java
+-  Kotlin
 
-## CAD & Manufacturing
+## CAD
 - OnShape
-- 3D Printing
-- my messy craftmansship
+- 3D Printing (P1S)
 
 ## Project i've done
 - **NAS** I've build my own NAS and set it up on Ubuntu
